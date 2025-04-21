@@ -19,12 +19,8 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 
 ### 🛠️ Languages and Notable Repositories
 
-#### Public Repositories
-- 🌐 [JavaScript: React Web App](https://github.com/kylo-539/coffee-shop)
-
 #### Private Repositories
-- ☕ **Java**: Enterprise Microservices *(Private Repository)*
-- ➕ **C++**: Robotics Algorithms *(Private Repository)*
+- 🌐 [JavaScript: React Web App](https://github.com/kylo-539/coffee-shop)
 
 #### Language Stats (Including Private Repos)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylo-539&layout=compact&theme=radical&show_private=true)
