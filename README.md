@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Kylo-539! 👋
 
-<!--
-**kylo-539/kylo-539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and solving complex problems. Here's a little about me and what you can find on my GitHub:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 👨‍💻 Software Developer with a focus on building scalable and efficient applications.
+- 🌱 Currently learning: Advanced Machine Learning and Blockchain technologies.
+- 💡 Interested in open-source contributions, innovative tech, and collaborative projects.
+- 🎮 When I'm not coding, I enjoy gaming, reading sci-fi novels, and exploring new tech trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages**: Python, JavaScript, Java, C++
+- **Frameworks**: React, Node.js, Django, Flask
+- **Tools**: Docker, Kubernetes, GitHub Actions, VS Code
+- **Databases**: PostgreSQL, MongoDB, MySQL
+
+## 📈 GitHub Stats
+![Kylo-539's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylo-539&show_icons=true&theme=radical)
+
+
+🤝 **Open to collaboration** on exciting projects! Feel free to explore my repositories and reach out if you'd like to work together.
+
+✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+```
