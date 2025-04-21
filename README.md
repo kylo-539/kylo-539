@@ -22,9 +22,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 #### Private Repositories
 - 🌐 [JavaScript: React Web App](https://github.com/kylo-539/Coffee-Shop)
 
-#### Language Stats (Including Private Repos)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylo-539&layout=compact&theme=radical&count_private=true)
-
 🤝 **Open to collaboration** on exciting projects! Feel free to explore my repositories and reach out if you'd like to work together.
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
