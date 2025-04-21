@@ -17,9 +17,17 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 ## 📈 GitHub Stats
 ![Kylo-539's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylo-539&show_icons=true&theme=radical)
 
-### 📊 Language Stats
+### 🛠️ Languages and Notable Repositories
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylo-539&layout=compact&theme=radical)
+#### Public Repositories
+- 🌐 [JavaScript: React Web App](https://github.com/kylo-539/coffee-shop)
+
+#### Private Repositories
+- ☕ **Java**: Enterprise Microservices *(Private Repository)*
+- ➕ **C++**: Robotics Algorithms *(Private Repository)*
+
+#### Language Stats (Including Private Repos)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylo-539&layout=compact&theme=radical&show_private=true)
 
 🤝 **Open to collaboration** on exciting projects! Feel free to explore my repositories and reach out if you'd like to work together.
 
