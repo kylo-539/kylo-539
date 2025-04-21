@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
 ## 📈 GitHub Stats
-![Kylo-539's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylo-539&show_icons=true&theme=radical)
+![Kylo-539's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylo-539&show_icons=true&theme=radical&count_private=true)
 
 ### 🛠️ Languages and Notable Repositories
 
@@ -23,10 +23,8 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 - 🌐 [JavaScript: React Web App](https://github.com/kylo-539/coffee-shop)
 
 #### Language Stats (Including Private Repos)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylo-539&layout=compact&theme=radical&show_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylo-539&layout=compact&theme=radical&count_private=true)
 
 🤝 **Open to collaboration** on exciting projects! Feel free to explore my repositories and reach out if you'd like to work together.
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
-
-```
