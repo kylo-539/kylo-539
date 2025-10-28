@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Kylo-539! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and solving complex problems. Here's a little about me and what you can find on my GitHub:
@@ -30,5 +29,4 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 
 🤝 **Open to collaboration** on exciting projects! Feel free to explore my repositories and reach out if you'd like to work together.
 
-✨ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
-```
+✨ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
