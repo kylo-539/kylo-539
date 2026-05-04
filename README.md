@@ -1,32 +1,109 @@
-# Hi there, I'm Kylo-539! 👋
+# Hi, I'm Kyle 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and solving complex problems. Here's a little about me and what you can find on my GitHub:
+Electronic & Computer Engineering (IoT) Master's student focused on building **real-world, end-to-end systems** — from embedded hardware to scalable web platforms and intelligent data analysis.
+
+---
 
 ## 🚀 About Me
-- 👨‍🎓 Masters student in Electronic and Computer Engineering.
-- 👨‍💻 Main skills: circuitry, data analysis, and software development.
-- 🌱 Currently focusing on: networking, blockchain, real-time systems, and signals.
-- 💡 Interested in open-source contributions, innovative tech, and collaborative projects.
-- 🎮 When I'm not coding, I enjoy gaming, reading sci-fi novels, and exploring new tech trends.
+- 🎓 Integrated Master's in Electronic & Computer Engineering (IoT)
+- 📊 Top-performing student across multiple modules:
+  - Network Performance (91%)
+  - Mobile/Wireless Communications (83%)
+- 💼 Experience working with **SCADA systems** in a Transmission System Operator environment
+- 🧠 Strong interest in:
+  - Embedded systems & sensor fusion
+  - Networking & distributed systems
+  - Real-time data pipelines
+  - Secure IoT architectures
+
+---
+
+## 🧩 Engineering Focus
+
+I specialise in building **full-stack physical systems**, combining:
+
+- 📡 Embedded sensing (ESP32, Raspberry Pi, IMUs, ADC systems)
+- 🌐 Backend infrastructure (Django, APIs, WebSockets)
+- 📊 Real-time data processing & analytics
+- 🖥️ Interactive dashboards and reporting tools
+
+---
+
+## 🏗️ Featured Work
+
+### 🦵 Knee Rehabilitation Analysis System *(Masters Project)*
+A real-time wearable system for monitoring exercise quality and injury risk.
+
+**Highlights:**
+- Dual-IMU + flex sensor system for biomechanical tracking
+- Real-time ingestion (HTTP) and streaming (WebSockets)
+- Fuzzy logic evaluation for:
+  - Movement quality
+  - Injury risk scoring
+- Automatic exercise detection (squats, hamstring curls, wall sits)
+- Session analytics and PDF report generation
+
+> Focused on bridging the gap between **wearable sensing and actionable rehabilitation feedback**
+
+---
+
+### 📡 Connected Embedded Systems (EEN1071)
+Public repositories showcase system design, architecture, and results from embedded + MQTT-based applications.
+
+**Includes:**
+- Sensor data acquisition (ADXL345, system telemetry)
+- MQTT publisher/subscriber systems
+- Real-time Qt-based visualisation dashboards
+- Structured JSON data pipelines
+
+📌 *Note:* Source code is intentionally not public to preserve academic integrity.  
+It is available upon request for professional or academic review.
+
+---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript, Java, C++, MATLAB
-- **Frameworks**: React, Django
-- **Tools**: Docker, Kubernetes, GitHub Actions, VS Code
-- **Databases**: PostgreSQL, MongoDB, MySQL
 
-## 📈 GitHub Stats
-![Kylo-539's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylo-539&show_icons=true&theme=radical&count_private=true)
+**Languages**  
+`Python` `C/C++` `JavaScript` `MATLAB`
 
-### 🛠️ Languages and Notable Repositories
+**Embedded & IoT**  
+`ESP32` `Raspberry Pi` `I2C` `MQTT` `Sensor Integration`
 
-#### Featured & Public Repositories
-- [Mobile-Communications](https://github.com/kylo-539/Mobile-Communications) — Simulations of digital communication schemes (BASK, QPSK, 8PSK) for different symbol lengths (20 and 5000) with accompanying images for easy interpretation of results.
-- [Coffee-Shop](https://github.com/kylo-539/Coffee-Shop) — JavaScript: React Web App.
+**Backend & Web**  
+`Django` `REST APIs` `WebSockets` `React`
 
-#### Developing (Private)
-- [Masters-Website](https://github.com/kylo-539/Masters-Website) — Private — developing a website for collection of knee data to aid home rehabilitation; will be made public after completion of my masters.
+**Networking & Simulation**  
+`NS-3` `OFDM/QPSK Systems`
 
-🤝 **Open to collaboration** on exciting projects! Feel free to explore my repositories and reach out if you'd like to work together.
+**Security & Cryptography**  
+`AES-128` `PRESENT-80`
 
-✨ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+**Tools**  
+`Git` `Linux` `VS Code`
+
+---
+
+## 📂 Public Repositories
+
+- Connected Embedded Systems (README only)
+- Masters Project
+
+> These repositories focus on **design, implementation approach, and results**, rather than full source code.
+
+---
+
+## 🤝 Collaboration & Contact
+
+I'm open to:
+- IoT / embedded systems projects
+- Real-time data systems
+- Engineering-focused problem solving
+
+If you're interested in collaborating or reviewing full implementations, feel free to reach out.
+
+---
+
+## ⚡ Approach
+
+> I focus on building systems that don’t just function —  
+> but **measure, analyse, and provide meaningful feedback in real-world environments.**
