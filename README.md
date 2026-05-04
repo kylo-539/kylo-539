@@ -47,57 +47,84 @@ A real-time wearable system for monitoring exercise quality and injury risk.
 
 ---
 
-### 📡 Connected Embedded Systems (EEN1071)
-Public repositories showcase system design, architecture, and results from embedded + MQTT-based applications.
+## 📂 Public Repositories
 
-**Includes:**
-- Sensor data acquisition (ADXL345, system telemetry)
-- MQTT publisher/subscriber systems
-- Real-time Qt-based visualisation dashboards
-- Structured JSON data pipelines
+### 📡 Embedded Systems & IoT
 
-📌 *Note:* Source code is intentionally not public to preserve academic integrity.  
-It is available upon request for professional or academic review.
+- **Connected-Embedded-Systems-Assignment-1**  
+  C++ application interfacing with a DS3231 real-time clock over I2C  
+  → Demonstrates low-level hardware communication and embedded timing systems  
+
+- **Connected-Embedded-Systems-Assignment-2**  
+  Qt-based GUI application for real-time telemetry visualisation  
+  → Demonstrates MQTT integration, JSON parsing, and live data plotting  
+
+---
+
+### 🌐 Networking & Performance Analysis
+
+- **Network-Performance-Public-README**  
+  Simulation-based analysis of WiFi performance (throughput, delay, PLR)  
+  → Demonstrates NS-3 / OMNeT++ analysis and network performance evaluation  
+
+- **Mobile-Communications-Assignment-1**  
+  BPSK, QPSK, and 8PSK modulation simulations  
+  → Demonstrates digital modulation and signal analysis  
+
+- **Mobile-Communications-Assignment-2**  
+  OFDM vs OFDMA system comparison  
+  → Demonstrates multi-carrier communication systems and efficiency trade-offs  
+
+---
+
+### 🔐 Security & Cryptography
+
+- **Security-for-IoT-public-README**  
+  Implementation and analysis of AES-128 and PRESENT-80 encryption  
+  → Demonstrates understanding of lightweight cryptography and secure system design  
+
+---
+
+## ⚠️ Note on Source Code
+
+To preserve academic integrity, repositories primarily contain:
+
+- System design and architecture  
+- Analysis methodology  
+- Results and visualisations  
+
+Full source code is available upon request for professional or academic review.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 **Languages**  
-`Python` `C/C++` `JavaScript` `MATLAB`
+Python · C/C++ · JavaScript · MATLAB  
 
 **Embedded & IoT**  
-`ESP32` `Raspberry Pi` `I2C` `MQTT` `Sensor Integration`
+ESP32 · Raspberry Pi · I2C · MQTT · Sensor Integration  
 
 **Backend & Web**  
-`Django` `REST APIs` `WebSockets` `React`
+Django · REST APIs · WebSockets · React  
 
 **Networking & Simulation**  
-`NS-3` `OFDM/QPSK Systems`
+NS-3 · OFDM/QPSK Systems  
 
 **Security & Cryptography**  
-`AES-128` `PRESENT-80`
+AES-128 · PRESENT-80  
 
 **Tools**  
-`Git` `Linux` `VS Code`
-
----
-
-## 📂 Public Repositories
-
-- Connected Embedded Systems (README only)
-- Masters Project
-
-> These repositories focus on **design, implementation approach, and results**, rather than full source code.
+Git · Linux · VS Code  
 
 ---
 
 ## 🤝 Collaboration & Contact
 
 I'm open to:
-- IoT / embedded systems projects
-- Real-time data systems
-- Engineering-focused problem solving
+- IoT / embedded systems projects  
+- Real-time data systems  
+- Engineering-focused problem solving  
 
 If you're interested in collaborating or reviewing full implementations, feel free to reach out.
 
